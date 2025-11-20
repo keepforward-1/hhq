@@ -1,0 +1,36 @@
+.module-layout {
+  min-height: 100vh;
+  background: #0a0e27;
+}
+
+.module-header {
+  background: #001529;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+}
+
+.module-content {
+  padding: 24px;
+  background: #0a0e27;
+}
+
+.module-wrapper {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.module-card {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+.module-card .ant-card-head-title {
+  color: #fff;
+}
+
+.module-card .ant-card-body {
+  color: #fff;
+}
+
